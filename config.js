@@ -53,6 +53,15 @@ const CONFIG = {
       icon: "🎣",
       active: true,
     },
+    {
+      id: "casa",
+      name: "Elite da Casa",
+      description: "Achadinhos e promoções de produtos de mercado, utilidades e itens para sua casa.",
+      url: "https://chat.whatsapp.com/KkypBDm1xyzBYY71paolCl",
+      badge: "Casa & Mercado",
+      icon: "🏠",
+      active: true,
+    },
   ],
 
   /**
